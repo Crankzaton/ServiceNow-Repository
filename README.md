@@ -8,9 +8,5 @@ Inside this repository, you will find community submitted code-snippets and thei
 
 **Note:** ServiceNowDevProgram has many repositories that can be imported directly into ServiceNow, this is not one of them; This repository is meant to be edited directly in GitHub or any other Git-enabled IDE like VS Code.
 
-🔔🔔🔔<br>
-***CONTRIBUTORS must follow all guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)*** or run the risk of having your Pull Requests labeled as spam.<br>
-🔔🔔🔔
-
 ## We invite you to contribute!
 
